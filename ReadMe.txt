@@ -5,5 +5,8 @@ TOREAD:
 https://cplusplus.com/
 https://en.cppreference.com/w/
 
+Установка Visual Studio:
+https://www.youtube.com/watch?v=4Kdn2M5sACE
+
 TODO:
 Выучить теорию!
