@@ -1,6 +1,11 @@
 ﻿https://github.com/okovtun/VBU_223
 https://www.youtube.com/watch?v=-RMxAgeHN8I&list=PLeqyOOqxeiIP8_LnlYyJ3GtYHqBoxiH3c
 
+TODO:
+1. Выучить конспект!!!!!!
+2. Выучить: https://github.com/okovtun/VBU_223/blob/master/DataTypes.pdf
+3. Решить все задачи из файла: https://github.com/okovtun/VBU_223/blob/master/VariablesTask.pdf
+
 TOREAD:
 https://cplusplus.com/
 https://en.cppreference.com/w/
