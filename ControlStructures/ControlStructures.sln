@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlStructures", "ControlStructures\ControlStructures.vcxproj", "{900FF345-3F35-4F35-B230-891378EF5996}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Palindrome", "Palindrome\Palindrome.vcxproj", "{E8FC6700-5DDC-4156-831B-F555E019283F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shooter", "Shooter\Shooter.vcxproj", "{FEE9CACC-BC78-44AE-BAE1-A83735267158}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FOR", "FOR\FOR.vcxproj", "{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +27,30 @@ Global
 		{900FF345-3F35-4F35-B230-891378EF5996}.Release|x64.Build.0 = Release|x64
 		{900FF345-3F35-4F35-B230-891378EF5996}.Release|x86.ActiveCfg = Release|Win32
 		{900FF345-3F35-4F35-B230-891378EF5996}.Release|x86.Build.0 = Release|Win32
+		{E8FC6700-5DDC-4156-831B-F555E019283F}.Debug|x64.ActiveCfg = Debug|x64
+		{E8FC6700-5DDC-4156-831B-F555E019283F}.Debug|x64.Build.0 = Debug|x64
+		{E8FC6700-5DDC-4156-831B-F555E019283F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8FC6700-5DDC-4156-831B-F555E019283F}.Debug|x86.Build.0 = Debug|Win32
+		{E8FC6700-5DDC-4156-831B-F555E019283F}.Release|x64.ActiveCfg = Release|x64
+		{E8FC6700-5DDC-4156-831B-F555E019283F}.Release|x64.Build.0 = Release|x64
+		{E8FC6700-5DDC-4156-831B-F555E019283F}.Release|x86.ActiveCfg = Release|Win32
+		{E8FC6700-5DDC-4156-831B-F555E019283F}.Release|x86.Build.0 = Release|Win32
+		{FEE9CACC-BC78-44AE-BAE1-A83735267158}.Debug|x64.ActiveCfg = Debug|x64
+		{FEE9CACC-BC78-44AE-BAE1-A83735267158}.Debug|x64.Build.0 = Debug|x64
+		{FEE9CACC-BC78-44AE-BAE1-A83735267158}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEE9CACC-BC78-44AE-BAE1-A83735267158}.Debug|x86.Build.0 = Debug|Win32
+		{FEE9CACC-BC78-44AE-BAE1-A83735267158}.Release|x64.ActiveCfg = Release|x64
+		{FEE9CACC-BC78-44AE-BAE1-A83735267158}.Release|x64.Build.0 = Release|x64
+		{FEE9CACC-BC78-44AE-BAE1-A83735267158}.Release|x86.ActiveCfg = Release|Win32
+		{FEE9CACC-BC78-44AE-BAE1-A83735267158}.Release|x86.Build.0 = Release|Win32
+		{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}.Debug|x64.ActiveCfg = Debug|x64
+		{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}.Debug|x64.Build.0 = Debug|x64
+		{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}.Debug|x86.Build.0 = Debug|Win32
+		{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}.Release|x64.ActiveCfg = Release|x64
+		{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}.Release|x64.Build.0 = Release|x64
+		{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}.Release|x86.ActiveCfg = Release|Win32
+		{8AABFA7A-B2B8-4E8E-B0F0-D415082E37CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
