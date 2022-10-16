@@ -6,6 +6,8 @@ using namespace std;
 //#define TRIANGLE_2
 //#define TRIANGLE_3
 #define TRIANGLE_4
+#define ROMBUS
+//#define PLUS_MINUS
 
 void main()
 {
@@ -55,6 +57,32 @@ void main()
 	}
 #endif // TRIANGLE_3
 
+#ifdef ROMBUS
+	for (int i = 0; i < n; i++)
+	{
+		for (int j = i; j < n; j++)
+			cout << " "; 
+		cout << "/";
+		for (int j = 0; j < i*2; j++)
+			cout << " "; 
+		cout << "\\";
+		
+		cout << endl;
+	}
+	for (int i = 0; i < n; i++)
+	{
+		for (int j = 0; j <= i; j++)
+			cout << " "; 
+		cout << "\\";
+		for (int j = 0; j < (n-1-i)*2; j++)
+			cout << j; 
+		cout << "/";
+		
+		cout << endl;
+ 	}
+#endif // ROMBUS
+
+#ifdef PLUS_MINUS
 	for (int i = 0; i < n; i++)
 	{
 		for (int j = 0; j < n; j++)
@@ -66,4 +94,6 @@ void main()
 		cout << endl;
 	}
 	true;
-}
+#endif // PLUS_MINUS
+
+	}
