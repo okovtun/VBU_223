@@ -1,0 +1,14 @@
+Array
+
+
+		type name;		//declaration of a variable
+		type name[SIZE];//declaration of a array
+type - тип элементов массива.
+name - имя массива.
+SIZE - количество элементов массива.
+
+	const int SIZE = 5;
+	int arr[SIZE];
+
+	const int n = 8;
+	int brr[n];
