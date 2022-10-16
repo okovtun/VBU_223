@@ -1,13 +1,27 @@
 ﻿https://github.com/okovtun/VBU_223
 https://www.youtube.com/watch?v=-RMxAgeHN8I&list=PLeqyOOqxeiIP8_LnlYyJ3GtYHqBoxiH3c
 
+TODO:
+1. Есть массив из десяти элементов, проинициализированный при объявлении значениями
+	1	2	3	4	5	6	7	8	9	10
+   необходимо выполнить циклический сдвиг этого массива на заданное число элементов влево.
+	1	2	3	4	5	6	7	8	9	10
+	2	3	4	5	6	7	8	9	10	1
+	3	4	5	6	7	8	9	10	1	2
+	4	5	6	7	8	9	10	1	2	3
+	5	6	7	8	9	10	1	2	3	4
+2. Выполнить циклический сдвиг массива на заданное число элементов вправо;
+3. Пользователь вводит с клавиатуры десятичное число (dec), нужно перевести это число в двоичную систему счисления (bin);
+4. Пользователь вводит с клавиатуры десятичное число (dec), нужно перевести это число в шестнадцатеричную системы счисления (hex);
+	Алгоритм перевода dec в bin и hex здесь:https://github.com/okovtun/VBU_223/blob/master/NumericSystems.pdf
+
 TOREAD:
 https://github.com/okovtun/VBU_223/blob/master/NumericSystems.pdf
 
 Install:
 https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
 
-TODO:
+DONE:
 1. https://github.com/okovtun/BV_011/blob/master/ControlStructures/Geometria/Task/Geometria1.txt;
 2. https://github.com/okovtun/BV_011/blob/master/ControlStructures/Geometria/Task/ChessBoard.jpg;
 3. https://github.com/okovtun/BV_011/blob/master/ControlStructures/Geometria/Task/HardChess.jpg;
