@@ -5,6 +5,7 @@ int Sum(int a = 0, int b = 0);			//Прототип функции (Объявл
 int Difference(int a, int b);
 int Product(int a, int b);
 double Quotient(int a, int b);
+double Power(double a, int n);
 
 void main()
 {
@@ -19,6 +20,7 @@ void main()
 	cout << a << " - " << b << " = " << Difference(a, b) << endl;
 	cout << a << " * " << b << " = " << Product(a, b) << endl;
 	cout << a << " / " << b << " = " << Quotient(a, b) << endl;
+	cout << a << " ^ " << b << " = " << Power(a, b) << endl;
 }
 
 int Sum(int a, int b)	//Реализация функции (Определение функции - Function definition)
@@ -37,4 +39,18 @@ int Product(int a, int b)
 double Quotient(int a, int b)
 {
 	return (double)a / b;
+}
+double Power(double a, int n)
+{
+	double N = 1;
+	if (n < 0)
+	{
+		a = 1 / a;
+		n = -n;
+	}
+	for (int i = 0; i < n; i++)
+	{
+		N *= a;
+	}
+	return N;
 }
