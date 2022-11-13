@@ -21,6 +21,11 @@ void main()
 	cout << a << " * " << b << " = " << Product(a, b) << endl;
 	cout << a << " / " << b << " = " << Quotient(a, b) << endl;
 	cout << a << " ^ " << b << " = " << Power(a, b) << endl;
+	
+	//				Unresolved Externals
+	//unresolved external symbol found
+	//Linker
+	//Function definition not found
 }
 
 int Sum(int a, int b)	//Реализация функции (Определение функции - Function definition)
