@@ -16,6 +16,9 @@ https://github.com/okovtun/SPD_121
 Sysadmin:
 https://www.youtube.com/watch?v=oZHt-6OM4as&list=PLeqyOOqxeiINRecRZn85PzuYkQg2vNipn&index=23
 
+Motivation:
+https://www.youtube.com/watch?v=ywCmXWub1FY&t=8s
+
 TODO:
 Написать перегруженные функции для работы с одномерными и двумерными массивами
 типа int, float, double и char:
