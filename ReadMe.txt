@@ -1,6 +1,21 @@
 ﻿https://github.com/okovtun/VBU_223
 https://www.youtube.com/watch?v=-RMxAgeHN8I&list=PLeqyOOqxeiIP8_LnlYyJ3GtYHqBoxiH3c
 
+Install:
+https://myfreeproject.com/soft/81-kmsauto-net-2016.html
+
+C++:
+https://github.com/okovtun/BV_224
+https://github.com/okovtun/BU_211
+https://github.com/okovtun/SBD_121
+
+OOP:
+https://github.com/okovtun/PV_224
+https://github.com/okovtun/SPD_121
+
+Sysadmin:
+https://www.youtube.com/watch?v=oZHt-6OM4as&list=PLeqyOOqxeiINRecRZn85PzuYkQg2vNipn&index=23
+
 TODO:
 Написать перегруженные функции для работы с одномерными и двумерными массивами
 типа int, float, double и char:
